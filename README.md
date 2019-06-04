@@ -6,7 +6,7 @@
 
 ## TLDR
 * This is an introductory workshop to machine learning with ml5.js
-* Context/Audience: initially prepared for [ITP Camp 2019](https://itp.nyu.edu/camp2019/). ITP Campers are usually creative tech folks or creative tech adjacent
+* Context/Audience: initially prepared for [ITP Camp 2019](https://itp.nyu.edu/camp2019/). ITP Campers are usually creative tech folks or creative tech adjacent, but we hope this workshop can be used with audiences of all shapes and types.
 * General overview of machine learning concepts and terms with emphasis on learning through making.
 * We use ml5.js, a javascript library to do machine learning for the web. 
 
@@ -14,6 +14,13 @@
 
 
 Welcome to this friendly introduction to machine learning with ml5.js. We're happy you're here.
+
+## Code of Conduct
+
+ml5.js is about machine learning and people.A major part of the ml5.js project is about creating broader engagement with machine learning and its effects on you, me, and the people and environment. As a user of ml5.js you are agreeing to abide by the ml5.js [code of conduct](https://github.com/ml5js/ml5-library/blob/development/CODE_OF_CONDUCT.md). It's easy and fun to be nice and respectful to those around you. Let's have a wonderful workshop together. If you're looking for more details on what constitutes being "not nice" please see [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) which are applicable to the space that ml5.js wants to create. 
+
+If you have any questions or need to report any issues please contact: info@ml5js.org
+
 
 ### Agenda: ~2.5 hours
 
