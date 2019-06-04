@@ -36,12 +36,19 @@ Welcome to this friendly introduction to machine learning with ml5.js. We're hap
 
 <!-- TODO -->
 + [Link to slides]()
-+ [ml5.js **website**](https://ml5js.org/)
-+ [ml5.js **organization**](https://github.com/ml5js) 
-+ [ml5.js **library**](https://github.com/ml5js/ml5-library) 
-+ [ml5.js **examples**](https://github.com/ml5js/ml5-examples) 
++ [ml5.js **website**](https://ml5js.org/): 
+  + The main ml5.js website
++ [ml5.js **organization**](https://github.com/ml5js): 
+  + The ml5.js github organization. Here you can see all the repositories that make up the ml5.js project.
++ [ml5.js **library**](https://github.com/ml5js/ml5-library):
+  + The main library for ml5.js. This is where all the ✨happens!
++ [ml5.js **examples**](https://github.com/ml5js/ml5-examples):
+  + The examples that correspond to all of the functions that are available in the ml5.js library. Emphasis is given to p5.js examples.
++ [ml5.js examples on **p5 web editor**](https://editor.p5js.org/ml5/sketches)
+  + The examples can be found as well in the p5 web editor. You can run the sketches directly and tweak the examples as you'd like. Note, some of the examples currently do not work in the editor.  
 
 ## Terms
+
 
 
 ## References
