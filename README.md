@@ -45,4 +45,8 @@ Welcome to this friendly introduction to machine learning with ml5.js. We're hap
 
 
 ## References
-
++ [Yining Shi](http://1023.io/)'s ["Machine learning for the web" course](https://github.com/yining1023/machine-learning-for-the-web) at NYU's ITP.
++ [Machine Learning Workshop by @AndreasRef](https://andreasref.github.io/ml/)
++ Various curated ML projects  
+  + [ML projects and inspiration](https://github.com/yining1023/machine-learning-for-the-web/wiki/References---Inspiration---Links)
+  + [ml5.js community section](https://ml5js.org/community)
