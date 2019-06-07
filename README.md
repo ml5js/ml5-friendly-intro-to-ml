@@ -5,6 +5,7 @@
 
 
 ## TLDR
+
 * This is an introductory workshop to machine learning with ml5.js
 * Context/Audience: initially prepared for [ITP Camp 2019](https://itp.nyu.edu/camp2019/). ITP Campers are usually creative tech folks or creative tech adjacent, but we hope this workshop can be used with audiences of all shapes and types.
 * General overview of machine learning concepts and terms with emphasis on learning through making.
@@ -22,11 +23,20 @@ ml5.js is about machine learning and people.A major part of the ml5.js project i
 If you have any questions or need to report any issues please contact: info@ml5js.org
 
 
+## Overview:
+- [Agenda]()
+- [Key Questions and Takeaways]()
+- [Resources]()
+- [Terms]()
+- [References]()
+- [FAQ]()
+
 ### Agenda: ~2.5 hours
 
 + Hello!
 + TBD <!-- TODO -->
 + TBD <!-- TODO -->
++ Quick 5 Min Break <!-- TODO -->
 + TBD <!-- TODO -->
 + Closing notes
 + Farewell + happy camping!
@@ -37,6 +47,8 @@ If you have any questions or need to report any issues please contact: info@ml5j
 + Why machine learning in the browser is possible? and why is this amazing?
 + Why machine learning in the browser is important also for democratizing machine learning?
 + Why we need to be able to “poke” at machine learning as creatives - to see how the implications of “state of the art” impact people differently (e.g. face-api expressions? https://joeyklee.github.io/face-api-expressions-demo/webcam/ - notice that it is hard to make certain expressions!)? <!-- TODO -->
+
+
 
 
 ## Resources
@@ -56,6 +68,41 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 ## Terms
 
+> Collected from [Yining's Week 1 of Machine Learning for the Web](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit#slide=id.g40fd84b173_0_613)
+
+- **Artificial Intelligence**:
+  - AI is the science of making things smart:
+  - Human Intelligence Exhibited by Machines
+  - A broad term for getting computers to perform human tasks
+  - **General AI**: fabulous machines that have all our senses (maybe even more), all our reason, and think just like we do.
+  - Most of AI today is **Narrow AI** systems that can only do one (or a few) defined things as well or better than humans.
+- **Machine Learning**:
+  - One of the Approaches to Achieve Artificial Intelligence
+  - A field of computer science that uses statistical techniques to give computer systems the ability to "learn" with data, without being explicitly programmed.
+  - LOTS OF DATA
+  - **Types of machine learning learning styles**:
+    - **Supervised Learning**: 
+      - Training data is labeled
+    - **Unsupervised Learning**: 
+      - The machine learn from an unlabelled data set.
+      - Unsupervised learning can be grouped into clustering and dimensionality reduction.
+    - **Reinforcement Learning**:
+      - The machine learn by trial-and-error through reward or punishment.
+  - **Types of machine learning outputs**:
+    - **Regression**: Predict continuous values (price of a stock)
+    - **Classification**: Predict a class/label (cat or dog?)
+    - **Clustering**: Most similar other examples (Amazon related products recommendation)
+    - **Sequence Prediction**: Predict the next word/sentence
+  - **Types of machine learning use cases**:
+    - Object Recognition
+    - Speech and Sound Detection
+    - Natural Language Processing
+    - Prediction
+    - Translation
+- **Deep Learning**:
+  - A technique for implementing Machine Learning
+  - Deep learning - Uses multi-layered artificial neural networks to deliver state-of-the-art accuracy.
+  - Can automatically learn representations/features from data such as images, video or text.
  
 
 ## References
