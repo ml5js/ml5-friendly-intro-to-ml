@@ -56,11 +56,26 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 ## Terms
 
-
+ 
 
 ## References
 + [Yining Shi](http://1023.io/)'s ["Machine learning for the web" course](https://github.com/yining1023/machine-learning-for-the-web) at NYU's ITP.
 + [Machine Learning Workshop by @AndreasRef](https://andreasref.github.io/ml/)
++ [Coding Train Video Series](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw):
+  + [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
+  + [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
 + Various curated ML projects  
   + [ML projects and inspiration](https://github.com/yining1023/machine-learning-for-the-web/wiki/References---Inspiration---Links)
   + [ml5.js community section](https://ml5js.org/community)
++ [Dan Shiffman's EyeO Talk 2019](https://github.com/CodingTrain/Eyeo-Festival-2019)
+
+## FAQ
+
+> What is the difference between machine learning and AI?
+
++ ...
+
+
+> what is the difference between a model, a pre-trained model, and an algorithm? What is the correct way to refer to those things?
+
++ ...
