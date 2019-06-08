@@ -31,7 +31,9 @@ If you have any questions or need to report any issues please contact: info@ml5j
 - [References]()
 - [FAQ]()
 
-### Agenda: ~2.5 hours
+
+
+## Agenda: ~2.5 hours
 
 + Hello!
 + TBD <!-- TODO -->
@@ -41,7 +43,10 @@ If you have any questions or need to report any issues please contact: info@ml5j
 + Closing notes
 + Farewell + happy camping!
 
-### Key Questions and Takeaways:
+## Key Questions and Takeaways:
+
+> This is an introductory workshop to machine learning. We are focused on helping you to not only *learn through making* but also start to *reflect through making*. The following questions are here to help focus the **learning** and **reflecting**. 
+
 + What is ml5.js?
 + What is the relationship between ml5 and tensorflow.js?
 + Why machine learning in the browser is possible? and why is this amazing?
@@ -49,12 +54,22 @@ If you have any questions or need to report any issues please contact: info@ml5j
 + Why we need to be able to “poke” at machine learning as creatives - to see how the implications of “state of the art” impact people differently (e.g. face-api expressions? https://joeyklee.github.io/face-api-expressions-demo/webcam/ - notice that it is hard to make certain expressions!)? <!-- TODO -->
 
 
+## The AI/ML universe:
+
+> AI/ML isn't just about advancements in technology, it is about a broader universe of things that are coming together (or diverging). These include changes (or lackthereof) in governance, cultural and social interactions with, awareness of, and attitudes, and feelings towards these new technologies, the development of new tools and communities around and against AI/ML, expansion of AI/ML education, and use of AI/ML in art and design or other domains outside "traditional AI/ML" spaces (e.g. engineering and computer science).
+
++ Research
++ Policies
++ Tools
++ Communities
++ Education
++ Art/Design
 
 
 ## Resources
 
 <!-- TODO -->
-+ [Link to slides]()
++ [Link to slides](https://docs.google.com/presentation/d/10cLjPGNKspZvVgR6KiG29bJKlnn_W-or9wLXTVuIVig/edit?usp=sharing)
 + [ml5.js **website**](https://ml5js.org/): 
   + The main ml5.js website
 + [ml5.js **organization**](https://github.com/ml5js): 
