@@ -35,13 +35,15 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 ## Agenda: ~2.5 hours
 
-+ Hello!
-+ TBD <!-- TODO -->
-+ TBD <!-- TODO -->
-+ Quick 5 Min Break <!-- TODO -->
-+ TBD <!-- TODO -->
-+ Closing notes
-+ Farewell + happy camping!
++ Hello! (5 mins)
++ Intro to Machine Learning (30 mins)
++ Intro to ml5.js (15 mins)
++ Quick 5 Min Break
++ Coding session (~45 mins)
++ Build a quick-and-dirty demo (~30 mins)
++ Present demo (10 mins)
++ Q&A, Closing notes (5 mins)
++ Farewell + happy camping!(5 mins)
 
 ## Key Questions and Takeaways:
 
