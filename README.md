@@ -70,6 +70,7 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 <!-- TODO -->
 + [Link to slides](https://docs.google.com/presentation/d/10cLjPGNKspZvVgR6KiG29bJKlnn_W-or9wLXTVuIVig/edit?usp=sharing)
+  + Slide presentation with introductions, overview of terms, project highlights and more.
 + [ml5.js **website**](https://ml5js.org/): 
   + The main ml5.js website
 + [ml5.js **organization**](https://github.com/ml5js): 
