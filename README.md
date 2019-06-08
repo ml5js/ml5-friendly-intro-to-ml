@@ -56,10 +56,15 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 ## The AI/ML universe:
 
-> AI/ML isn't just about advancements in technology, it is about a broader universe of things that are coming together (or diverging). These include changes (or lackthereof) in governance, cultural and social interactions with, awareness of, and attitudes, and feelings towards these new technologies, the development of new tools and communities around and against AI/ML, expansion of AI/ML education, and use of AI/ML in art and design or other domains outside "traditional AI/ML" spaces (e.g. engineering and computer science).
+> AI/ML isn't just about advancements in technology, it is about a broader universe of things that are coming together (or diverging). These include changes (or lackthereof) in governance, cultural and social interactions with, awareness of, and attitudes, and feelings towards these new technologies, the development of new tools and communities around and against AI/ML, expansion of AI/ML education, and use of AI/ML in art and design or other domains outside "traditional AI/ML" spaces (e.g. engineering and computer science). 
+>
+> We increasingly interact with machine learning every day, whether it is through the way we access content through media providers such as Netflix, Twitter, and Instagram, or how we get from A to B on transit and vehicles. These increasingly algorithmically and data driven interactions do not come from the ether, but rather are the result of a complex and chaotic assemblage of social and technical forces.
+>
+> It is worth thinking about how the following factors affect or are affected by changes in AI/ML.
 
 + Research
 + Policies
++ Environment
 + Tools
 + Communities
 + Education
