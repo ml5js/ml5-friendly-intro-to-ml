@@ -72,6 +72,12 @@ If you have any questions or need to report any issues please contact: info@ml5j
 + Education
 + Art/Design
 
+## Coding session
+Let’s build a The Unicorn Race is an interactive game built with p5.js in which the audience races🏃‍♀️ characters across the screen based on what the computer “sees 👀” and “hears 👂”. 
+
+The game uses ml5.js to use machine learning models trained in Google’s Teachable Machine and tensorflow.js to allow the game to recognize custom objects 👜  and sounds 🔊. 
+
+See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 
 ## Resources
 
