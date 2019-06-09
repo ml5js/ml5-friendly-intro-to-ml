@@ -150,7 +150,9 @@ See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 * **Product/service integration...and awesome art projects**
   * E.g. the artist opensources this new pre-trained dog/cat/badger model. This comes just in time since the ASPCA in NYC has been in great need of a method to differentiate between the animals in their shelters. The artist is hired to create a web application that uses this model to label their shelter animals “cat”, or “dog” or “badger”. 
 
+## ml5 in 3 
 
+![ml5 in 3 steps](assets/ml5-in-3-steps.png)
 
 ## References
 
