@@ -154,6 +154,27 @@ See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 
 ![ml5 in 3 steps](assets/ml5-in-3-steps.png)
 
+## Unicorn Racing Game:
+
+> Live coding session for Unicorn Racing Game to showcase how you can use ml5 to integrate machine learning to add new types of interactions to your interactives!
+
+- See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
+
+## Choose your own adventure
+
+> Team up and come up with a machine learning application using some of these suggestions below!
+
+- [Image Classifier With Webcam](https://github.com/ml5js/ml5-examples/tree/release/p5js/ImageClassification)
+- [PoseNet Code Examples](https://github.com/ml5js/ml5-examples/tree/release/p5js/PoseNet)
+- [BodyPix Code Examples](https://github.com/ml5js/ml5-examples/tree/release/p5js/BodyPix)
+- [Sounce Classifier Code Examples](https://github.com/ml5js/ml5-examples/tree/release/p5js/SoundClassification/SoundClassification_speechcommand)
+
+... Or try adapting code from any of the other ml5 examples:
+
+- [link to code](https://github.com/ml5js/ml5-examples/tree/release/p5js)
+- [examples index](https://github.com/ml5js/ml5-examples#examples-index)
+
+
 ## References
 
 ### Online Learning Materials, Courses, and Workshops
